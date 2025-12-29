@@ -1,0 +1,23 @@
+.head1{
+    color: darkblue;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.form1{
+    align-items: center;
+}
+#formdiv{
+    width: 12%;
+    margin: auto;
+}
+body{
+    background-image: url('/images/image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#btn{
+    color: white;
+    size: 10rem;
+}
